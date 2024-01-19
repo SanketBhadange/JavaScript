@@ -42,4 +42,8 @@ Get-ChildItem -File
 
  git branch -M main
  
- git push
+ git push 
+
+ //
+
+ git pull origin main (remote to local)
